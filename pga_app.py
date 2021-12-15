@@ -18,7 +18,7 @@ st.write(mediumlink, " | ", linkedinlink)
 
 
 #image
-image = Image.open('Tiger.jpg')
+image = Image.open('.jpg')
 st.image(image)
 
 #Bring in the data
