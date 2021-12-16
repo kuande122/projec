@@ -8,7 +8,7 @@ from PIL import Image
 
 
 #Create header
-st.write("預測NBA季後賽進入機率")
+st.write("""##預測NBA季後賽進入機率""")
 st.write("""## How it works""")
 st.write("Model your predicted winner by using the left side of the screen to apply  weightings to the different metrics. This will give you a ranked 'predicted outcome' based on your selections. "
          "The current selections are those deemed most appropriate to the Masters based on recent outcomes.")
